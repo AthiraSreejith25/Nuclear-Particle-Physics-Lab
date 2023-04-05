@@ -1,5 +1,8 @@
 # Nuclear-Particle-Physics-Lab
-Codes, data, plots, analysis and reports of PHY411 NPP Lab course
+Contains codes, data, plots, analysis and reports of PHY411 NPP Lab course.
+
+
+The lab reports are given both here and inside the respective directories as well. Codes, plots and data are inside the directories.
 
 ## Tasks
 
