@@ -1,6 +1,8 @@
 # Nuclear-Particle-Physics-Lab
 Codes, data, plots, analysis and reports of PHY411 NPP Lab course
 
+## Tasks
+
 A1 - Coin tosses and nuclear decays of unstable nuclei are simulated using pseudo-random numbers, and the results
 are analysed.\
 A2 - Muon Energy Loss\
